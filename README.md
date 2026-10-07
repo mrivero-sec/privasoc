@@ -1,3 +1,6 @@
+# DISCOUNTINUED
+merged into privasoc+
+
 # privasoc
 
 **A privacy-first, local-LLM SOC analyst that writes its own log parsers.**
